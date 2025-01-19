@@ -1,0 +1,97 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ChatGPT", "ChatGPT\ChatGPT.pyproj", "{4A71F1FC-3715-450C-890D-6457CA895951}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "OI", "OI\OI.pyproj", "{374B2EBF-6E91-4540-8287-7B0BC5B3AF1B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "KBAI", "KBAI\KBAI.pyproj", "{8CA97346-F18E-4B6D-9F2C-EAC6D3795FE6}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Finanalysis", "Finanalysis\Finanalysis.pyproj", "{2A7DD7EA-8296-468C-81E9-1947DDCD45A9}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RatingAnalysis", "RatingAnalysis\RatingAnalysis.pyproj", "{F014626D-82AD-43D4-B7A1-5175FA862B9B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MusicReview", "MusicReview\MusicReview.pyproj", "{75A11DB4-382C-4026-8AD0-3EDDB320AC3B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Embadding", "Embadding\Embadding.pyproj", "{5CF8C642-304E-4982-907E-DFD0F819F7D2}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FAQ_PINE", "FAQ\FAQ_PINE.pyproj", "{0AF17360-D34D-4FA6-B10E-B673F0BA4FD8}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CallFunction", "CallFunction\CallFunction.pyproj", "{A060A42A-0FA2-4848-A8BC-8C902D4D6A43}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RAG1", "RAG1\RAG1.pyproj", "{CEEC52E2-6928-4784-8DBB-1C939D187334}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Finetune", "Finetune\Finetune.pyproj", "{5F3EBF0C-8E92-432A-A00E-941AAD61E9CE}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "VoiceToText", "VoiceToText\VoiceToText.pyproj", "{E3B9B156-D43E-44D0-A9FC-0F5E19BB12EA}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "mthreadflask", "mthreadflask\mthreadflask.pyproj", "{87BCA8D0-2DD8-466A-94F7-762FC11DA440}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LDAP", "LDAP\LDAP.pyproj", "{9D3E12DA-D694-4C22-80A4-7D431688A25C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ODBCTest", "ODBCTest\ODBCTest.pyproj", "{32275B03-FA1F-4A7A-BC31-885CF58E7C65}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ODBCWindow", "ODBCWindow\ODBCWindow.pyproj", "{7EE5A9C9-5D35-485C-ADD5-6140E79B7D0A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LanguageTranslate", "LanguageTranslate\LanguageTranslate.pyproj", "{9BE84F75-BD19-4C3D-9D33-C8A593EE165F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A71F1FC-3715-450C-890D-6457CA895951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A71F1FC-3715-450C-890D-6457CA895951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{374B2EBF-6E91-4540-8287-7B0BC5B3AF1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{374B2EBF-6E91-4540-8287-7B0BC5B3AF1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{374B2EBF-6E91-4540-8287-7B0BC5B3AF1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{374B2EBF-6E91-4540-8287-7B0BC5B3AF1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CA97346-F18E-4B6D-9F2C-EAC6D3795FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CA97346-F18E-4B6D-9F2C-EAC6D3795FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CA97346-F18E-4B6D-9F2C-EAC6D3795FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CA97346-F18E-4B6D-9F2C-EAC6D3795FE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A7DD7EA-8296-468C-81E9-1947DDCD45A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A7DD7EA-8296-468C-81E9-1947DDCD45A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F014626D-82AD-43D4-B7A1-5175FA862B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F014626D-82AD-43D4-B7A1-5175FA862B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A11DB4-382C-4026-8AD0-3EDDB320AC3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A11DB4-382C-4026-8AD0-3EDDB320AC3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CF8C642-304E-4982-907E-DFD0F819F7D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CF8C642-304E-4982-907E-DFD0F819F7D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AF17360-D34D-4FA6-B10E-B673F0BA4FD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AF17360-D34D-4FA6-B10E-B673F0BA4FD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A060A42A-0FA2-4848-A8BC-8C902D4D6A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A060A42A-0FA2-4848-A8BC-8C902D4D6A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEEC52E2-6928-4784-8DBB-1C939D187334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEEC52E2-6928-4784-8DBB-1C939D187334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F3EBF0C-8E92-432A-A00E-941AAD61E9CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F3EBF0C-8E92-432A-A00E-941AAD61E9CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3B9B156-D43E-44D0-A9FC-0F5E19BB12EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3B9B156-D43E-44D0-A9FC-0F5E19BB12EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87BCA8D0-2DD8-466A-94F7-762FC11DA440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87BCA8D0-2DD8-466A-94F7-762FC11DA440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87BCA8D0-2DD8-466A-94F7-762FC11DA440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87BCA8D0-2DD8-466A-94F7-762FC11DA440}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D3E12DA-D694-4C22-80A4-7D431688A25C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D3E12DA-D694-4C22-80A4-7D431688A25C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32275B03-FA1F-4A7A-BC31-885CF58E7C65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32275B03-FA1F-4A7A-BC31-885CF58E7C65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32275B03-FA1F-4A7A-BC31-885CF58E7C65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32275B03-FA1F-4A7A-BC31-885CF58E7C65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EE5A9C9-5D35-485C-ADD5-6140E79B7D0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EE5A9C9-5D35-485C-ADD5-6140E79B7D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE84F75-BD19-4C3D-9D33-C8A593EE165F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BE84F75-BD19-4C3D-9D33-C8A593EE165F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BE84F75-BD19-4C3D-9D33-C8A593EE165F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE84F75-BD19-4C3D-9D33-C8A593EE165F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67EE308E-4D05-437C-81F1-33BFC3E3C847}
+	EndGlobalSection
+EndGlobal
